@@ -1,0 +1,672 @@
+Uri: https://cdn.ckeditor.com/4.5.11/full/ckeditor.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\4.5.11\full\ckeditor.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.smasco.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800&amp;subset=latin,latin-ext
+File Name: C:\Downloaded Web Sites\www.smasco.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto&display=swap
+File Name: C:\Downloaded Web Sites\www.smasco.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-63432466-1
+File Name: C:\Downloaded Web Sites\www.smasco.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/
+File Name: C:\Downloaded Web Sites\www.smasco.com\index.htm
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrowleft.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrowleft.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrowright.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrowright.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrow_left.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrow_left.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrow_left2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrow_left2.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrow_right.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrow_right.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/arrow_right2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\arrow_right2.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/boxed_bgtile.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\boxed_bgtile.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/bullet.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\bullet.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/bullets.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\bullets.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/bullets2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\bullets2.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/bullet_boxed.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\bullet_boxed.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\coloredbg.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\gridtile.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\gridtile_3x3.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\gridtile_3x3_white.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\gridtile_white.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\images\ajax-loader.gif.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/large_left.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\large_left.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/large_right.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\large_right.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/navigdots.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\navigdots.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/navigdots_bgtile.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\navigdots_bgtile.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/shadow1.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\shadow1.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/shadow2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\shadow2.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/shadow3.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\shadow3.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/small_left.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\small_left.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/small_left_boxed.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\small_left_boxed.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/small_right.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\small_right.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/small_right_boxed.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\small_right_boxed.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/assets/transparent.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\assets\transparent.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/dx.common.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\dx.common.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/dx.light.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\dx.light.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/dx.spa.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\dx.spa.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.smasco.com/assets/css/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.smasco.com/assets/css/icons/dxicons.ttf
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\icons\dxicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.smasco.com/assets/css/icons/dxicons.woff
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\icons\dxicons.woff
+Content Type: font/woff
+
+Uri: https://www.smasco.com/assets/css/prettyPhoto.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/settings.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/skin7.css?v=1
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\skin7.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.smasco.com/assets/font/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\font\revicons.eot.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/font/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\font\revicons.svg.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/font/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\font\revicons.ttf.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/font/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\font\revicons.woff.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/images/1.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\1.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\2.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/banner-loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\banner-loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/bg.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/bgs/block-bg-1.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bgs\block-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/bgs/block-bg-2.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bgs\block-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/bgs/block-bg-3.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bgs\block-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/bgs/block-bg-4.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bgs\block-bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/bgs/block-bg-5.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\bgs\block-bg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/digits.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\digits.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/dot.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\dot.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/glitter.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\glitter.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/gradient/g30.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\gradient\g30.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/images/gradient/g40.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\gradient\g40.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/assets/images/loader_1.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\loader_1.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/loader_2.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\loader_2.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/loader_3.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\loader_3.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/page-titles/Page-title-1.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\page-titles\Page-title-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/page-titles/Page-title-3.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\page-titles\Page-title-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/1.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\1.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/patterns/bg1.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg10.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg11.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg12.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg13.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg14.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg15.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg16.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg16.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/patterns/bg2.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg3.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg4.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg5.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg6.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg7.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg8.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/bg9.jpg
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\bg9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.smasco.com/assets/images/patterns/dots.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\dots.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/patterns/gry-patt.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\patterns\gry-patt.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/planBG.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\planBG.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/sadadbill.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\sadadbill.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/sadadolp.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\sadadolp.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/smasconewlogo1205.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\smasconewlogo1205.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/assets/images/spin.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\images\spin.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/assets/js/hyperpayOption.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\assets\js\hyperpayOption.js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/color.c7a33805ffda0d32bd2a.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\color.c7a33805ffda0d32bd2a.png
+Content Type: image/png
+
+Uri: https://www.smasco.com/favicon.ico?v=1
+File Name: C:\Downloaded Web Sites\www.smasco.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.smasco.com/inline.7084aa2ef0bd9391cfaf.bundle.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\inline.7084aa2ef0bd9391cfaf.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/line.567f57385ea3dde2c9ae.gif
+File Name: C:\Downloaded Web Sites\www.smasco.com\line.567f57385ea3dde2c9ae.gif
+Content Type: image/gif
+
+Uri: https://www.smasco.com/main.099d2588018dac9750c0.bundle.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\main.099d2588018dac9750c0.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/polyfills.51a58e58bcb4a217b28f.bundle.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\polyfills.51a58e58bcb4a217b28f.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/scripts.ac66a13f06e9707a250a.bundle.js
+File Name: C:\Downloaded Web Sites\www.smasco.com\scripts.ac66a13f06e9707a250a.bundle.js
+Content Type: application/javascript
+
+Uri: https://www.smasco.com/smasconewlogo1205.png
+File Name: C:\Downloaded Web Sites\www.smasco.com\smasconewlogo1205.png.html
+Content Type: text/html
+
+Uri: https://www.smasco.com/styles.6bde11c8ed46fed77142.bundle.css
+File Name: C:\Downloaded Web Sites\www.smasco.com\styles.6bde11c8ed46fed77142.bundle.css
+Content Type: text/css
+
